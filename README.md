@@ -20,7 +20,8 @@ A **simple, beautiful, pastel-themed calculator** built with **Python and Tkinte
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.png)
+<!-- ![Calculator Screenshot](screenshot.png) -->
+<img src="screenshot.png" alt="Calculator Screenshot" width="300">
 
 ---
 
