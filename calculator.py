@@ -1,12 +1,17 @@
 """
 Pastel Calculator (Smart Input + Original Colors)
 -------------------------------------------------
+Author: Elaheh Akbarian
+Created: 2025-11-08
+-------------------------------------------------
 Features:
 - Basic operations: +, -, *, /
 - Pretty GUI with soft pastel theme (blue, pink, green)
 - Smart input: no double operators or multiple dots
 - Shows result in an entry field
 - Displays "Error" for invalid input or division by zero
+-------------------------------------------------
+Requires: Python 3.x, Tkinter
 """
 
 import tkinter as tk
